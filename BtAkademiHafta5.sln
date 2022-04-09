@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hafta05_01_KisiTakipWinform
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hafta05_02_boxingUnboxing", "Hafta05_02_boxingUnboxing\Hafta05_02_boxingUnboxing.csproj", "{B7F8F407-82C7-4B4B-94D1-5B6926EA7CB9}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08_DosyaRepository", "..\BtAkademiHafta3\08_DosyaRepository\08_DosyaRepository.csproj", "{0EB19EC3-4603-401B-AD7A-BCF6F5F10D52}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05_Tipler", "..\BtAkademiHafta3\05_Tipler\05_Tipler.csproj", "{15FCD278-0070-4AAE-8E30-4FBABF0E9918}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{B7F8F407-82C7-4B4B-94D1-5B6926EA7CB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7F8F407-82C7-4B4B-94D1-5B6926EA7CB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7F8F407-82C7-4B4B-94D1-5B6926EA7CB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EB19EC3-4603-401B-AD7A-BCF6F5F10D52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EB19EC3-4603-401B-AD7A-BCF6F5F10D52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EB19EC3-4603-401B-AD7A-BCF6F5F10D52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EB19EC3-4603-401B-AD7A-BCF6F5F10D52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15FCD278-0070-4AAE-8E30-4FBABF0E9918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15FCD278-0070-4AAE-8E30-4FBABF0E9918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15FCD278-0070-4AAE-8E30-4FBABF0E9918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15FCD278-0070-4AAE-8E30-4FBABF0E9918}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

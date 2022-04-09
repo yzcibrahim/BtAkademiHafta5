@@ -7,6 +7,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\BtAkademiHafta3\05_Tipler\05_Tipler.csproj" />
+    <ProjectReference Include="..\..\BtAkademiHafta3\08_DosyaRepository\08_DosyaRepository.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Compile Update="FormKisiEkle.cs">
       <SubType>Form</SubType>
     </Compile>
